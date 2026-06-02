@@ -5,3 +5,4 @@ Day 1:
 - Dependency installation
 - NAV API ingestion
 - Data exploration
+- GitHub integration
